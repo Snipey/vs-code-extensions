@@ -1,2 +1,23 @@
-# vs-code-extensions
+# VS Code Extensions
 A List of the extensions I use in Visual Studio Code
+
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+- [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Git Lense](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+- [Node TDD](https://marketplace.visualstudio.com/items?itemName=prashaantt.node-tdd)
+- [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Tailwind CSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- [Yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
